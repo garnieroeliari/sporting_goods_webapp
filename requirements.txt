@@ -1,0 +1,13 @@
+streamlit
+torch
+torchvision
+PIL
+os
+sys
+requests
+io
+matplotlib
+pandas
+numpy
+cv2
+
