@@ -1,13 +1,11 @@
-streamlit
-torch
-torchvision
-PIL
-os
-sys
-requests
-io
-matplotlib
-pandas
-numpy
-cv2
+Python==3.7.3
+streamlit==0.73.1
+torch==1.8.0
+torchvision==0.9.0
+PIL==8.1.0
+requests==2.25.1
+matplotlib==3.1.0
+numpy==1.19.5
+pandas==1.2.1
+cv2==4.5.1
 
